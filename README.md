@@ -4,7 +4,7 @@ Essa API foi desenvolvida para gerenciar livros, permitindo o cadastro e a lista
 
 ## Desafio Vai na Web
 
-Este projeto faz parte do desafio do Vai na Web, com o instrutor Vinicius Bispo e a facilitadora Marina.
+Este projeto faz parte do desafio do Vai na Web do módulo 2 do curso FullStack.
 
 ## Funcionalidades
 
